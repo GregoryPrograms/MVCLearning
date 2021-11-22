@@ -16323,8 +16323,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Program Files (x86)\\Coding Projects\\HelloWorld\\Views\\HelloWorld\\index.cshtml",
-      "TargetPath": "Views\\HelloWorld\\index.cshtml",
+      "FilePath": "d:\\Program Files (x86)\\Coding Projects\\HelloWorld\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

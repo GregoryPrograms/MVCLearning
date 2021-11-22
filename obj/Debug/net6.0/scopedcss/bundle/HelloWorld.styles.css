@@ -6,6 +6,7 @@ a.navbar-brand[b-xs0n9d2rne] {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  right: 0px;
 }
 
 a[b-xs0n9d2rne] {
@@ -19,7 +20,7 @@ a[b-xs0n9d2rne] {
 }
 
 .nav-pills .nav-link.active[b-xs0n9d2rne], .nav-pills .show > .nav-link[b-xs0n9d2rne] {
-  color: #fff;
+  color: rgb(124, 9, 9);
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
@@ -46,4 +47,10 @@ button.accept-policy[b-xs0n9d2rne] {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+.a.nav-link[b-xs0n9d2rne] {
+  color:#0077cc;
+ margin-left: auto;
+ margin-right: 0;
 }

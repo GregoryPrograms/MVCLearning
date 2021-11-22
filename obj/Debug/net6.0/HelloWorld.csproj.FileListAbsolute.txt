@@ -17,9 +17,7 @@ D:\Program Files (x86)\Coding Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.Ra
 D:\Program Files (x86)\Coding Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.RazorAssemblyInfo.cs
 D:\Program Files (x86)\Coding Projects\HelloWorld\obj\Debug\net6.0\staticwebassets.build.json
 D:\Program Files (x86)\Coding Projects\HelloWorld\obj\Debug\net6.0\staticwebassets.development.json
-D:\Program Files (x86)\Coding Projects\HelloWorld\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Program Files (x86)\Coding Projects\HelloWorld\obj\Debug\net6.0\scopedcss\bundle\HelloWorld.styles.css
-D:\Program Files (x86)\Coding Projects\HelloWorld\obj\Debug\net6.0\scopedcss\projectbundle\HelloWorld.bundle.scp.css
 D:\Program Files (x86)\Coding Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
 D:\Program Files (x86)\Coding Projects\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
 D:\Program Files (x86)\Coding Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
