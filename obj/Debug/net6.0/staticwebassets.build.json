@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "17edUb0lS14XT68Zp3z5jzZscDQIPMBHDcIzGbxP5/E=",
+  "Hash": "eDBG2wAGRyxJ25FFHFLOd43qDYVnWdXxtNEjSSP6oGA=",
   "Source": "HelloWorld",
   "BasePath": "_content/HelloWorld",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\css\\Layout.css",
+      "Identity": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\css\\home-index.css",
       "SourceId": "HelloWorld",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\",
       "BasePath": "_content/HelloWorld",
-      "RelativePath": "css/Layout.css",
+      "RelativePath": "css/home-index.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,7 +31,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\Layout.css"
+      "OriginalItemSpec": "wwwroot\\css\\home-index.css"
+    },
+    {
+      "Identity": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\css\\layout.css",
+      "SourceId": "HelloWorld",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\",
+      "BasePath": "_content/HelloWorld",
+      "RelativePath": "css/layout.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\layout.css"
     },
     {
       "Identity": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\css\\site.css",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\js\\home-index.js",
+      "SourceId": "HelloWorld",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\",
+      "BasePath": "_content/HelloWorld",
+      "RelativePath": "js/home-index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\home-index.js"
     },
     {
       "Identity": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\js\\site.js",
