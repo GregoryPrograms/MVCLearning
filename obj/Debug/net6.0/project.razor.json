@@ -16328,6 +16328,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Program Files (x86)\\Coding Projects\\HelloWorld\\Views\\Projects\\Projects.cshtml",
+      "TargetPath": "Views\\Projects\\Projects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Program Files (x86)\\Coding Projects\\HelloWorld\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

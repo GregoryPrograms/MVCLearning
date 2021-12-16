@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eDBG2wAGRyxJ25FFHFLOd43qDYVnWdXxtNEjSSP6oGA=",
+  "Hash": "h7N+4fsBi5J6qlwolsLOeCMon9nxZx+cvlfpSCRCe2w=",
   "Source": "HelloWorld",
   "BasePath": "_content/HelloWorld",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\js\\dataSetGen.js",
+      "SourceId": "HelloWorld",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\",
+      "BasePath": "_content/HelloWorld",
+      "RelativePath": "js/dataSetGen.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\dataSetGen.js"
     },
     {
       "Identity": "D:\\Program Files (x86)\\Coding Projects\\HelloWorld\\wwwroot\\js\\home-index.js",

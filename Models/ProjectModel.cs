@@ -1,5 +1,5 @@
 //TODO: Make it so a list of projects is pulled from github in an efficient, low resource manner. Possible that this would be fine to call whenever the site is refreshed - since the # of projects would be low, overhead should be reasonable. 
-// Looks like the best way to do this would be using sessionStorage from html5.
+// Looks like the best way to do this would be using sessionStorage from html5 - will slightly limit website usability among older browsers, but not by much.
 public class projects
 {  
   public projects()
