@@ -1,4 +1,4 @@
-/* Code to loop between main page divs. First, we select all divs that contain
+/*Code to loop between main page divs. First, we select all divs that contain
     'rotate' in their id, then we loop between setting their display value
      to ''none' and 'block'*/
 rotateDivs = document.querySelectorAll('[id ^= "rotate"]');

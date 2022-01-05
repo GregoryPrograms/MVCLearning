@@ -1,3 +1,10 @@
 .hidden{
     display: none;
 }
+.proj{
+    width: 140px;
+    font-size: medium;
+    border-style: solid;
+    background-color: white;
+    color: gray;
+}
